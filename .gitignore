@@ -1,0 +1,5 @@
+dask-worker-space
+zmmtable
+data
+.ipynb_checkpoints
+__pycache__
