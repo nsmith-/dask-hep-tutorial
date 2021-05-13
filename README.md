@@ -1,6 +1,9 @@
 # Dask for HEP tutorial
 This is the companion repository to [PyHEP topical meeting - Dask](https://indico.cern.ch/event/1027094/)
 
+## Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsmith-/dask-hep-tutorial/HEAD)
+
 ## Conda setup
 We use the [coffea](https://coffeateam.github.io/coffea/) package to quickly get HEP dependencies like xrootd, uproot, etc.
 Otherwise this is a standard scipy stack
