@@ -1,5 +1,6 @@
 # Dask for HEP tutorial
-This is the companion repository to [PyHEP topical meeting - Dask](https://indico.cern.ch/event/1027094/)
+This is the companion repository to [PyHEP topical meeting - Dask](https://indico.cern.ch/event/1027094/).
+A short introductory talk is available [here](https://indico.cern.ch/event/1027094/contributions/4312696/attachments/2239462/3796674/pyhep-dask.pdf) and a recording is available on [youtube](https://www.youtube.com/watch?v=BmmVmKHEcsc&list=PLKZ9c4ONm-VnFUD0XX2DmfP1JA8VIRhXP)
 
 ## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsmith-/dask-hep-tutorial/HEAD)
